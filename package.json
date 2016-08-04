@@ -16,7 +16,7 @@
     "extension",
     "sign"
   ],
-  "main": "connector.js",
+  "main": "connector-es6.js",
   "dependencies": {
     "aws-sdk": "^2.4.8"
   },
